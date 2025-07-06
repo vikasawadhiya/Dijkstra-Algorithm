@@ -22,7 +22,7 @@ Dijkstra’s algorithm belongs to a specific category of algorithms called greed
 ## Tutorial Document
 
 <p align="justify">Tutorial document 
-<a href="https://github.com/vikasawadhiya/Dijkstra-Algorithm/blob/main/Dijkstra’sAlgorithm.pdf">Dijkstra’sAlgorithm.pdf</a> 
+<a href="https://github.com/vikasawadhiya/Dijkstra-Algorithm/blob/main/Dijkstra'sAlgorithm.pdf">Dijkstra’sAlgorithm.pdf</a> 
 explains Dijkstra’s shortest path algorithm in detail. 
 The tutorial document first introduces Dijkstra’s algorithm then explains different types of graphs where 
 Dijkstra’s algorithm works. It lists all four steps of algorithm and then considers an undirected 
@@ -83,6 +83,6 @@ vertex and the shortest path to each vertex from source vertex u is highlighted 
 ## License
 
 The code is licenced under the [MIT License](https://github.com/vikasawadhiya/Dijkstra-Algorithm/blob/main/LICENSE).</br>
-The tutorial document [Dijkstra’sAlgorithm.pdf](https://github.com/vikasawadhiya/Dijkstra-Algorithm/blob/main/Dijkstra’sAlgorithm.pdf) and 
+The tutorial document [Dijkstra’sAlgorithm.pdf](https://github.com/vikasawadhiya/Dijkstra-Algorithm/blob/main/Dijkstra'sAlgorithm.pdf) and 
 [shortestPath.png](https://github.com/vikasawadhiya/Dijkstra-Algorithm/blob/main/shortestPath.png) 
 are licensed under the [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
