@@ -77,12 +77,12 @@ vertex and the shortest path to each vertex from source vertex u is highlighted 
 </p>
 
 <p align="center">
-<img src="https://github.com/vikasawadhiya/Dijkstra-Algorithm/blob/main/shortestPath.png" alt="Shortest path of each vertex.">
+<img src="https://github.com/vikasawadhiya/Dijkstra-Algorithm/blob/main/shortestPath.svg" alt="Shortest path of each vertex.">
 </p>
 
 ## License
 
 The code is licenced under the [MIT License](https://github.com/vikasawadhiya/Dijkstra-Algorithm/blob/main/LICENSE).</br>
 The tutorial document [Dijkstra’sAlgorithm.pdf](https://github.com/vikasawadhiya/Dijkstra-Algorithm/blob/main/Dijkstra'sAlgorithm.pdf) and 
-[shortestPath.png](https://github.com/vikasawadhiya/Dijkstra-Algorithm/blob/main/shortestPath.png) 
+[shortestPath.svg](https://github.com/vikasawadhiya/Dijkstra-Algorithm/blob/main/shortestPath.svg) 
 are licensed under the [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
